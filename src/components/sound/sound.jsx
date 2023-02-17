@@ -1,7 +1,6 @@
 import './sound.css';
 
 import { BsFillPlayFill } from 'react-icons/bs';
-import { useState } from 'react';
 
 const Sound = ({ audio }) => {
     const handlePlaySound = () => {
