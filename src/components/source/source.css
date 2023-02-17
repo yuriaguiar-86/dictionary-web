@@ -1,0 +1,12 @@
+.source {
+    gap: 1em;
+    display: flex;
+    color: var(--grey);
+}
+
+.source a {
+    gap: .3em;
+    display: flex;
+    color: var(--black);
+    align-items: flex-end;
+}

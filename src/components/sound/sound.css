@@ -1,0 +1,24 @@
+.container_button {
+    padding: 15px;
+    border-radius: 50%;
+    
+    border: none;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    background: var(--pink);
+}
+
+.container_button:hover {
+    border: 1px solid var(--purple);
+}
+
+.container_desabled {
+    cursor: no-drop !important;
+}
+
+.icon_play {
+    font-size: 1.5em;
+    color: var(--purple);
+}

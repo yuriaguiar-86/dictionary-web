@@ -1,0 +1,25 @@
+.container_input {
+    gap: 1.1em;
+    width: 600px;
+    margin: 2em 0;
+    padding: .3em;
+    border-radius: 5px;
+    
+    display: flex;
+    align-items: center;
+    background: var(--light);
+}
+
+.container_input input {
+    width: 550px;
+    font-weight: 600;
+    padding: .8em 1em;
+
+    border: none;
+    outline: none;
+    background: none;
+}
+
+.icon_search {
+    color: var(--purple);
+}

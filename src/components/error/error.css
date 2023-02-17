@@ -1,0 +1,9 @@
+.container_error {
+    gap: .5em;
+    display: flex;
+    margin-top: 1em;
+}
+
+.container_error p {
+    color: var(--grey);
+}

@@ -1,0 +1,10 @@
+.container_header {
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container_header p {
+    color: var(--grey);
+}
